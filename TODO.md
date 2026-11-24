@@ -16,4 +16,5 @@
 - [x] A navegação é simples e acessível, com experiência visual adaptada a celular e computador.
 
 ## Repositório GitHub
-- [ ] Definir se `https://github.com/eduardo21-tech/Minha-Historia` será usado como espelho público adicional, mantendo o histórico principal do site separado, ou se Eduardo prefere conectar um novo repositório privado pelo fluxo de versões do site.
+- [x] O repositório existente `https://github.com/eduardo21-tech/Minha-Historia` funciona como espelho público adicional, e o histórico de checkpoints do site permanece no repositório gerenciado pelo Manus.
+- [x] A cópia inicial da galeria foi enviada para a branch `main` do espelho público.
